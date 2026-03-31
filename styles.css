@@ -1,1 +1,9 @@
-
+body {
+  background-color: #00BBBB;
+}
+h1 {
+  color: black;
+}
+p {
+  color: dark-gray;
+}
