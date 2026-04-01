@@ -9,19 +9,19 @@ p {
 }
 .button {
   background-color: #00BBBB;
-  border: none
+  border: none;
   color: #FFFFFF;
-  padding: 15 32;
+  padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16;
+  font-size: 16px;
   cursor: pointer;
 }
 .header {
-  padding: 60;
+  padding: 60px;
   text-align: center;
-  background: #00FFFF;
-  color: white;
-  font-size: 30;
+  background: #00BBBB;
+  color: #FFFFFF;
+  font-size: 25px;
 }
