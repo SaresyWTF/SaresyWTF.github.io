@@ -7,14 +7,21 @@ h1 {
 p {
   color: #000000;
 }
-button {
+.button {
   background-color: #00BBBB;
   border: none
   color: #FFFFFF;
-  padding: 15px 32px;
+  padding: 15 32;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 16;
   cursor: pointer;
+}
+.header {
+  padding: 60;
+  text-align: center;
+  background: #00FFFF;
+  color: white;
+  font-size: 30;
 }
