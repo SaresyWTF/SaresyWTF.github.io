@@ -20,7 +20,7 @@ p {
 }
 .header {
   padding: 60px;
-  text-align: center;
+  text-align: top-left;
   background: #00BBBB;
   color: #FFFFFF;
   font-size: 25px;
