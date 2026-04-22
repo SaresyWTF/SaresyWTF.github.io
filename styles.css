@@ -19,9 +19,9 @@ p {
   cursor: pointer;
 }
 .header {
-  padding: 60px;
+  padding: 20px;
   text-align: left;
   background: #00BBBB;
   color: #FFFFFF;
-  font-size: 25px;
+  font-size: 20px;
 }
