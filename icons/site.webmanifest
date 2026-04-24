@@ -1,0 +1,21 @@
+{
+  "name": "Saresy's Website",
+  "short_name": "SaresyWTF",
+  "icons": [
+    {
+      "src": "/saresywtf/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/saresywtf/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "#00bbbb",
+  "background_color": "#344348",
+  "display": "standalone"
+}
