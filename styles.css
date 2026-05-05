@@ -3,23 +3,27 @@ body {
 }
 h1 {
   color: #D8F4FF;
+h2 {
+    color: #D8F4FF;
 }
 p {
   color: #D8F4FF;
 }
-.button {
+button {
   background-color: #00BBBB;
   border: none;
   color: #FFFFFF;
   padding: 14px 13px;
+  border-radius: 4px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
 }
-.header {
-  padding: 0px;
+header {
+  padding: 20px;
+  border-radius: 10px;
   text-align: left;
   background: #69777D;
   color: #D8F4FF;
