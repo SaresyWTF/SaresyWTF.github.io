@@ -9,7 +9,7 @@ h2 {
 p {
   color: #D8F4FF;
 }
-button {
+.button {
   background-color: #00BBBB;
   border: none;
   color: #FFFFFF;
@@ -21,7 +21,7 @@ button {
   font-size: 16px;
   cursor: pointer;
 }
-header {
+.header {
   padding: 20px;
   border-radius: 10px;
   text-align: left;
